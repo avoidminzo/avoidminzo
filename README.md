@@ -74,7 +74,6 @@
 | GPU | RTX 5060 Ti 16GB |
 | RAM | Not specified |
 | OS | Windows 11 |
-| IDE / Tools | OpenCode, VS Code |
 
 ## 📫 Find me
 
