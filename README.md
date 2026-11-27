@@ -29,6 +29,7 @@
 ## 📫 Find me
 
 - GitHub: [@avoidminzo](https://github.com/avoidminzo)
+- Discord: [avoidminzo](https://discord.com/users/1188381790675677265)
 
 ---
 
